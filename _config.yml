@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://livingwithstyle.github.io
+title: livingwithstyle
+tagline: a log of a stylish everyday life.
+description: My awesome new site
+paginate: 5
